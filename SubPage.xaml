@@ -1,0 +1,34 @@
+        <StackLayout>
+            <Entry x:Name="OutstandingFeeEntry"
+Placeholder="未収金" />
+            <Entry x:Name="PointEntry"
+Placeholder="ポイント数" />
+
+            <Button Text="Add to Database"
+Clicked="OnAddButton2Clicked" />
+
+            <Label Text="SubPage"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Button Text="return"
+                    x:Name="ReturnButton"/>
+
+            <ListView x:Name="listview"
+ ItemTapped="TappedlistviewItem"
+ HasUnevenRows = "True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <StackLayout>
+                                    
+                                    <Label Text="{Binding OutstandingFee}"/>
+                                    <Label Text="{Binding Point}"/>
+                                    <Label Text="{Binding Date}"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView >
+        </StackLayout>
