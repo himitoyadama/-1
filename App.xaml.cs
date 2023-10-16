@@ -13,7 +13,7 @@ public static NoteDatabase Database
     {
         if (database == null)
         {
-            database = new NoteDatabase(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "people.db3"));
+            database = new NoteDatabase(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "kaiin.db3"));
         }
         return database;
     }
