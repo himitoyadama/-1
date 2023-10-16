@@ -1,0 +1,31 @@
+<StackLayout>
+    <Entry x:Name="AttendantEntry"
+Placeholder="担当" />
+    <Entry x:Name="CustomerEntry"
+Placeholder="お客様" />
+
+    <Button Text="Add to Database"
+Clicked="OnAddButtonClicked" />
+
+    <Button x:Name="NextButton"
+            Text="Next page!"/>
+
+    <ListView x:Name="listview"
+ ItemTapped="TappedlistviewItem"
+ HasUnevenRows = "True">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Label Text="{Binding Attendant}"/>
+                            <Label Text="{Binding Customer}"/>
+                            
+                            <Label Text="{Binding Date}"/>
+                        </StackLayout>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView >
+</StackLayout>
