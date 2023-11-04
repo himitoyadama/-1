@@ -6,6 +6,8 @@
 
 ※課題
 POSシステムを作る
+https://m.youtube.com/watch?v=j-0Ms_rJM7k
+
 QRコード表示できるようにする
 キープボトルの名前と写メを掲載
 高級ボトルの名前と写メを掲載
