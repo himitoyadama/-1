@@ -1,4 +1,7 @@
 # Kaiin-Show
+ハッカソン2022で作成するポイントアプリのバックエンドプロジェクト
+https://github.com/hack-31/point-app-backend
+
 C#入門　応用編「ログイン機能を追加しよう　初級編」
 https://smartlabo-hp.com/login-beginner/
 
