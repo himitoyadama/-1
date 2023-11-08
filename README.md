@@ -12,6 +12,8 @@ https://ea.neppan.com/
 
 https://hitechs.co.jp/products/entry/000100.html
 
+https://www.obc.co.jp/bugyo-cloud/akikura/function/stock
+
 
 https://m.youtube.com/watch?v=Og_u26yMyqE
 
