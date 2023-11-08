@@ -2,7 +2,7 @@
 C#入門　応用編「ログイン機能を追加しよう　初級編」
 https://smartlabo-hp.com/login-beginner/
 
-ソリューションを右クリックしてソリューションのNuGetパッケージの管理をクリックして参照からsplite-net-pclを検索してインストール
+https://www.lancers.jp/work/detail/904311
 
 
 ※課題
