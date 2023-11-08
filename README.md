@@ -1,8 +1,9 @@
 # Kaiin-Show
+C#入門　応用編「ログイン機能を追加しよう　初級編」
+https://smartlabo-hp.com/login-beginner/
 
 ソリューションを右クリックしてソリューションのNuGetパッケージの管理をクリックして参照からsplite-net-pclを検索してインストール
 
-プロジェクト全体にインストール
 
 ※課題
 POSシステムを作る
@@ -13,11 +14,6 @@ https://ea.neppan.com/
 https://hitechs.co.jp/products/entry/000100.html
 
 https://www.obc.co.jp/bugyo-cloud/akikura/function/stock
-
-
-https://m.youtube.com/watch?v=Og_u26yMyqE
-
-https://m.youtube.com/watch?v=uMzsDlCzi8g
 
 https://m.youtube.com/watch?v=4gbJ2JX0tOk
 
