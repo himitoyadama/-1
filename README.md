@@ -6,6 +6,13 @@
 
 ※課題
 POSシステムを作る
+https://cart.e-shops.jp/guide2/sample/item.html
+
+https://ea.neppan.com/
+
+https://hitechs.co.jp/products/entry/000100.html
+
+
 https://m.youtube.com/watch?v=Og_u26yMyqE
 
 https://m.youtube.com/watch?v=uMzsDlCzi8g
