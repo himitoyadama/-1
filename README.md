@@ -1,4 +1,6 @@
 # Kaiin-Show
+joeFischetti
+
 https://github.com/joeFischetti/SPBAPump/commits?author=joeFischetti
 
 ハッカソン2022で作成するポイントアプリのバックエンドプロジェクト
