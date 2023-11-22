@@ -15,7 +15,7 @@ namespace App1
             InitializeComponent();
             // webView.Source = "https://www.youtube.com";
             var localhtml = new HtmlWebViewSource();
-            localhtml.Html = @"html><body>
+            localhtml.Html = @"<html><body>
                                 <h1>xamarin webview</h1>
                                 <p>this is my first xamarin local html</p>
                                </body></html>";
