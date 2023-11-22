@@ -1,4 +1,7 @@
 # Kaiin-Show
+PHPで簡単なCRUD機能を実装するための手順
+https://qiita.com/yan-ai/items/9adfc2d64ea425072378
+
 [PHP]PDOでデータベースと接続する方法
 https://qiita.com/tochisuke221/items/106d474c9fc4fa1f6271
 
