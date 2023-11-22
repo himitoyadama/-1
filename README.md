@@ -1,5 +1,6 @@
 # Kaiin-Show
-
+[PHP]PDOでデータベースと接続する方法
+https://qiita.com/tochisuke221/items/106d474c9fc4fa1f6271
 
 https://github.com/joeFischetti/SPBAPump/commits?author=joeFischetti
 
