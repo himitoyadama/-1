@@ -1,4 +1,7 @@
 # Kaiin-Show
+ngrokインストール方法と簡単な使い方
+https://www.mgo-tec.com/blog-entry-ngrok-install.html
+
 ラベル屋さん
 https://labelten.labelyasan.com/web/#/
 
