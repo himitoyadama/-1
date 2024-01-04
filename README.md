@@ -1,4 +1,6 @@
 #ngrok
+ローカルサーバを簡単公開 ngrok の紹介
+https://m.youtube.com/watch?v=lFN0SGwXMos
 
 ngrokの使い方をどこよりもわかりやすく解説！[Windows・Mac]
 https://watsunblog.com/ngrok-howto/
