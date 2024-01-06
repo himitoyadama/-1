@@ -1,4 +1,7 @@
 #ngrok
+NGROK SETUP (WINDOWS): INSTALL AND USE NGROK ON WINDOWS || Make your Localhost Available for All
+https://m.youtube.com/watch?v=XhRmn9Y8Agk
+
 ローカルのプロジェクトを簡単にweb公開! web開発に必須の便利ツールNgrokを紹介!
 https://www.youtube.com/watch?v=eRoy8vaGB60
 
