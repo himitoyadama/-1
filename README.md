@@ -1,4 +1,7 @@
 #ngrok
+How To Expose XAMPP localhost To The Internet Using ngrok
+https://m.youtube.com/watch?v=iFkGicjM4RY
+
 ngrokでローカルで動いているWebアプリケーションをインターネットに公開する方法
 https://footprints.link/articles/ja/n-machida/expose-local-develop-server-to-the-internet-with-ngrok
 
