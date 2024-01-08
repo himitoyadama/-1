@@ -1,4 +1,7 @@
 #ngrok
+ngrokでローカルで動いているWebアプリケーションをインターネットに公開する方法
+https://footprints.link/articles/ja/n-machida/expose-local-develop-server-to-the-internet-with-ngrok
+
 Overview
 https://ngrok.com/docs
 
