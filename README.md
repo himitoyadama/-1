@@ -1,4 +1,7 @@
 #ngrok
+フォワードプロキシで守られたNW内でngrokを使用する
+https://qiita.com/mizukyf/items/06b9a197a5c8f8fb42d4
+
 Windows版ngrokでプロキシ超え
 https://qiita.com/k_ori_dev/items/2ff43d4f8c9d102ce1d0
 
