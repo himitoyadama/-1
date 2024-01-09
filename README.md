@@ -1,4 +1,7 @@
 #ngrok
+Windows版ngrokでプロキシ超え
+https://qiita.com/k_ori_dev/items/2ff43d4f8c9d102ce1d0
+
 How To Expose XAMPP localhost To The Internet Using ngrok
 https://m.youtube.com/watch?v=iFkGicjM4RY
 
