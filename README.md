@@ -1,4 +1,7 @@
 #ngrok
+ngrok の無料版でドメイン・サブドメインを固定できる仕組みを試す！
+https://qiita.com/youtoy/items/8a79d6954bb37f935f1b
+
 『127.0.0.1』部分のIPアドレスは『localhost』と同じ意味ですのでどちらを利用しても問題ないです。
 https://www.geeklibrary.jp/counter-attack/ngrok/#:~:text=ngrok%E3%81%AE%E7%B5%82%E4%BA%86%E6%96%B9%E6%B3%95%E3%81%AF,%E3%82%AD%E3%83%BC%E3%81%A7%E7%B5%82%E4%BA%86%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82
 
