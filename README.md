@@ -1,4 +1,7 @@
 #ngrok
+ngrok (エングロック) をもう少し詳しくご紹介
+https://www.public.ne.jp/2021/01/07/ngrok-%E3%82%A8%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%83%E3%82%AF-%E3%82%92%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E8%A9%B3%E3%81%97%E3%81%8F%E3%81%94%E7%B4%B9%E4%BB%8B/
+
 ngrok の無料版でドメイン・サブドメインを固定できる仕組みを試す！
 https://qiita.com/youtoy/items/8a79d6954bb37f935f1b
 
