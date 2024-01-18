@@ -1,4 +1,7 @@
 #ngrok
+Windows版ngrokでプロキシ超え
+https://qiita.com/k_ori_dev/items/2ff43d4f8c9d102ce1d0
+
 ngrok (エングロック) をもう少し詳しくご紹介
 https://www.public.ne.jp/2021/01/07/ngrok-%E3%82%A8%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%83%E3%82%AF-%E3%82%92%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E8%A9%B3%E3%81%97%E3%81%8F%E3%81%94%E7%B4%B9%E4%BB%8B/
 
