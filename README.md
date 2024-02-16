@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=3v4OIds-OOg
 
 Macの使い方超入門編＊Macを買って後悔している方必見！WindowsユーザーからMacデビューした方へ。基本操作解説
 https://www.youtube.com/watch?v=8lzsh_BTEho
+
+【2023年最新】9割が間違えてるMacの選び方を徹底解説します！【Apple】 
+https://m.youtube.com/watch?v=YxYe-qA9SQs
